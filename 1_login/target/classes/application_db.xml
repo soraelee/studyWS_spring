@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+<!-- 	<bean id="dao" class="com.care.login.dao.loginDAO">
+		<property name="DB_id" value="java"></property>
+		<property name="DB_pwd" value="1234"></property>
+		<property name="DB_url" value="java"></property>
+	</bean> -->
+
+</beans>
